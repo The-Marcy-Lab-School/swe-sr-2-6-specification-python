@@ -13,6 +13,11 @@ qualities (your instructor will give you feedback on these areas):
 Write your response in the space provided. Make sure to preview your markdown
 to check how it is rendered before submitting.
 
+**Answer these in order.** Unlike most short response assignments, these three
+build on each other: question 2 asks you to write a specification, and question
+3 asks you to find the holes in the one you just wrote. Doing 3 without 2 is
+not possible.
+
 ## Question 1
 
 Here is a specification for a laundrette booking system. It was written by
